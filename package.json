@@ -1,0 +1,23 @@
+{
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "description": "a backend at youtube clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrinmoygit2022/youtube-clone.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Mrinmoy Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrinmoygit2022/youtube-clone/issues"
+  },
+  "homepage": "https://github.com/mrinmoygit2022/youtube-clone#readme"
+}
