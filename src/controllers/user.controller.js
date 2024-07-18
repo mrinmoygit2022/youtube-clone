@@ -95,9 +95,15 @@ const registerUser = asyncHandler( async (req, res) => {
 })
 
 const loginUser = asyncHandler(async (req, res) => {
+    // req body -> data
+    // username or email
+    //find the user
+    //password check
+    //access and referesh token
+    //send cookie
+
     const { email, username, password } = req.body;
     console.log("Email Address: ", email);
-    console.log("Username Address: ", username);
     console.log("Password Address: ", password);
 
     // Check if either username or email is provided
